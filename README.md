@@ -1,6 +1,8 @@
 # GoodVector & GoodPair
 
-### This is my custom implementation of `std::vector`, extended to work with `std::pair`.
+### This is my custom implementation of `std::vector`, extended to work with `std::pair`. 
+
+#### Using Qt for graphical visualization
 
 ### Practices:
 1. Custom iterators (begin, reverse, const)
